@@ -1,0 +1,12 @@
+~~~~~ TO - DO ~~~~~
+1 guardar el historial de cada operacion. Maximo 10.
+
+~~~~~ DOING ~~~~~
+Modificar veriMadre para funcionar object en operaMod, de forma opcional.  Modificar app.js para correr veriMadre modificado.
+
+~~~~~ DONE ~~~~~
+operaciones: Suma, resta, multiplicacion, division, potencia, raiz cuadrada, raiz cubica,porcentaje monto, 
+porcentaje total.
+optifizar ifs.
+aplicar switch a veriMadre.
+aplicar un log con comandos de operaciones en veriMadre.
